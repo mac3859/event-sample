@@ -1,0 +1,37 @@
+[
+    {
+        "EventType": "PatientCreated",
+        "Payload": {
+            "PatientID": "a30bb29d",
+            "Name": "Olivia"
+        }
+    },
+    {
+        "EventType": "PatientCaseSlideAttached",
+        "Payload": {
+            "PatientID": "a30bb29d",
+            "File": "d9392a98.tiff"
+        }
+    },
+    {
+        "EventType": "PatientCaseSlideAttached",
+        "Payload": {
+            "PatientID": "a30bb29d",
+            "File": "f796f432.tiff"
+        }
+    },
+    {
+        "EventType": "PatientCreated",
+        "Payload": {
+            "PatientID": "e36ff8f4",
+            "Name": "Sophie"
+        }
+    },
+    {
+        "EventType": "PatientCaseSlideAttached",
+        "Payload": {
+            "PatientID": "e36ff8f4",
+            "File": "ccd803fd.tiff"
+        }
+    }
+]
