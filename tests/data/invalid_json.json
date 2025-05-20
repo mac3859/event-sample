@@ -1,0 +1,16 @@
+[
+    {
+        "EventType": "PatientCreated",
+        "Payload": {
+            "PatientID": "a30bb29d",
+            "Name": "Olivia"
+        }
+    },
+    {
+        "EventType": "PatientCaseSlideAttached",
+        "Payload": {
+            "PatientID": "a30bb29d",
+            "File": "d9392a98.tiff"
+        }
+    },
+]
